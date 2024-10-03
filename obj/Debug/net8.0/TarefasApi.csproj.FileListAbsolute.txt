@@ -134,3 +134,4 @@ C:\Users\Trajano\Documents\dotnet\TarefaApi\TarefasApi\obj\Debug\net8.0\refint\T
 C:\Users\Trajano\Documents\dotnet\TarefaApi\TarefasApi\obj\Debug\net8.0\TarefasApi.pdb
 C:\Users\Trajano\Documents\dotnet\TarefaApi\TarefasApi\obj\Debug\net8.0\TarefasApi.genruntimeconfig.cache
 C:\Users\Trajano\Documents\dotnet\TarefaApi\TarefasApi\obj\Debug\net8.0\ref\TarefasApi.dll
+C:\Users\Trajano\Documents\dotnet\TarefaApi\TarefasApi\obj\Debug\net8.0\TarefasApi.sourcelink.json
